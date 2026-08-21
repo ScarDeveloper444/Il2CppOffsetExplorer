@@ -1,0 +1,20 @@
+[
+    {
+        "name": "FragmentAttackableComponent_TakeDamage",
+        "description": "Función de daño / Daño recibido",
+        "old_address": "0x0157519C",
+        "pattern": "FF 43 02 D1 FA 67 04 A9 F8 5F 05 A9 F6 57 06 A9 F4 4F 07 A9 FD 7B 08 A9 FD 03 02 91 F3 03 04 AA F4 03 03 AA F5 03 02 AA F6 03 01 AA F7 03 00 AA ?? ?? ?? ?? 08 03 7E 39"
+    },
+    {
+        "name": "BountyWaitingUAV_TakeDamage",
+        "description": "Función UAV TakeDamage",
+        "old_address": "0x02A88788",
+        "pattern": "F4 4F BE A9 FD 7B 01 A9 FD 43 00 91 F3 03 02 AA F4 03 01 AA ?? ?? ?? ?? 68 00 40 F9"
+    },
+    {
+        "name": "Sample_Anonymous_get_info",
+        "description": "Ejemplo getter Info",
+        "old_address": "0x0737BD54",
+        "pattern": "00 84 40 AD 00 05 00 AD C0 03 5F D6"
+    }
+]

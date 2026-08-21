@@ -1,0 +1,11 @@
+[
+  {
+    "name": "COW.UILadderLeaderBoardItemController$$SetNextTargetButtonView",
+    "clean_name": "SetNextTargetButtonView",
+    "class_name": "COW.UILadderLeaderBoardItemController",
+    "offset_hex": "0x01EE18C8",
+    "patch_type": "RETURN_TRUE",
+    "signature": "void COW_UILadderLeaderBoardItemController__SetNextTargetButtonView (COW_UILadderLeaderBoardItemController_o* __this, const MethodInfo* method);",
+    "pattern": "F6 57 BD A9 F4 4F 01 A9 FD 7B 02 A9 FD 83 00 91 F3 03 00 AA ?? ?? ?? ?? 88 1E 79 39 ?? ?? ?? ?? ?? ?? ?? ?? 00 C0 16 91"
+  }
+]
